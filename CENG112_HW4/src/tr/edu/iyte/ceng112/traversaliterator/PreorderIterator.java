@@ -4,8 +4,7 @@ import java.util.Iterator;
 
 import java.util.NoSuchElementException;
 
-import tr.edu.iyte.ceng112.stack.ArrayStack;
-import tr.edu.iyte.ceng112.stack.StackInterface;
+import tr.edu.iyte.ceng112.stack.*;
 import tr.edu.iyte.ceng112.tree.BinaryNode;
 
 

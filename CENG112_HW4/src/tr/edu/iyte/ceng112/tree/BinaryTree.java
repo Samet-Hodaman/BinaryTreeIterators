@@ -146,8 +146,7 @@ public class BinaryTree<T> implements BinaryTreeInterface<T> {
 
 	@Override
 	public Iterator<T> getLevelOrderIterator() {
-		// TODO Auto-generated method stub
-		return null;
+		return new LevelOrderIterator<>(root);
 	}
 
 }
